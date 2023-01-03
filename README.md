@@ -10,3 +10,7 @@ C-GEBM https://github.com/ConnorWatts/C-GEBM
 
 Modified the GEBM framework for image generation to allow for class conditioning. 
 
+MTL-GAN https://github.com/ConnorWatts/Multi-Task-GAN
+
+Developed a MTL framework for image GANs. Demonstrated that by jointly learning image classification tasks the generator produces more realistic and diverse images.
+

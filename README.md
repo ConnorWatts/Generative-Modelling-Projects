@@ -12,5 +12,5 @@ Modified the GEBM framework for image generation to allow for class conditioning
 
 MTL-GAN https://github.com/ConnorWatts/Multi-Task-GAN
 
-Developed a MTL framework for image GANs. Demonstrated that by jointly learning image classification tasks the generator produces more realistic and diverse images.
+Developed a MTL framework for image GANs. Demonstrated that by jointly learning image classification tasks the generator produces more realistic and diverse images. For a demonstation please see corresponding notebook. 
 
